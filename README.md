@@ -8,6 +8,8 @@ Requires Firefox 142 or newer.
 
 This extension does not collect any data nor send any data to any server.
 
+<https://x.com/bramus/status/2012094220627071117?s=20>
+
 ## Logic
 
 Check the width of currently focused Firefox window every 0.1 second:
